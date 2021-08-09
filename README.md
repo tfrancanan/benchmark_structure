@@ -1,2 +1,2 @@
 # Benchmark-Structure
-A STRUCTURAL BENCHMARK: AN OPEN CODE APPROACH
+A structural benchmark: an open code approach
